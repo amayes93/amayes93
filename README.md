@@ -24,7 +24,7 @@
 - 🌱 Je debute en HTML / CSS, et j'apprends également le python <img src="https://img.icons8.com/?size=512&id=13441&format=png" 
       width="40" height="40" alt="PY"> et le bash🖥️.<br>
 
-- 💬 Pour tout questione n'hésite pas à me contacter !Sur-ce bonne navigation!
+- 💬 Pour tout questione n'hésite pas à me contacter ! Sur-ce bonne navigation!
 </p>
 </body>
 </html>
