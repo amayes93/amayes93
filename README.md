@@ -14,7 +14,6 @@
     <h1 align="center">Salutations👋</h1>
 <h3 align="center">Je te souhaite la bienvenue sur mon site internet Mais sache que je ne suis qu'un développeur amateur!</h3>
     <h4>Rien d'extroadiraire donc 😁🙃!</h4>
----
 
 <h4 align="center">- A Propos de Moi - </h4>
 
