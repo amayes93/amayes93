@@ -26,12 +26,6 @@
       width="40" height="40" alt="PY"> et le bash🖥️.<br>
 
 - 💬 Pour tout questione n'hésite pas à me contacter !Sur-ce bonne navigation!
-
-- <h4 align="center">- Contribution Snake! -</h4>
-
-<p align="center">
-    <img src="https://github.com/amayes93/README.md/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only">
-    <img src="https://github.com/amayes93/README.md/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only">
 </p>
 </body>
 </html>
