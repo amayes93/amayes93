@@ -25,6 +25,14 @@
       width="40" height="40" alt="PY"> et le bash🖥️.<br>
 
 - 💬 Pour tout questione n'hésite pas à me contacter ! Sur-ce bonne navigation!
-</p>
+<br>
+<br>
+<br>
+      <br>
+<br>
+<br>
+
+<img src="https://yip.su/2riFrw.gif"  
+       width="210" height="240"</p>
 </body>
 </html>
