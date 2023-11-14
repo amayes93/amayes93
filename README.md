@@ -31,8 +31,7 @@
       <br>
 <br>
 <br>
-
 <img src="https://yip.su/2riFrw.gif"  
-       width="210" height="240"</p>
+       width="210" height="240"
 </body>
 </html>
