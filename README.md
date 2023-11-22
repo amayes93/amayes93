@@ -8,7 +8,7 @@
     <meta name="author" content="Me">
 </head>
 <body>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=amayes93&show_icons=true&locale=en&layout=compact" alt="amayes93">
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amayes93&show_icons=true&locale=en&layout=compact" alt="statamyes" /></p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=amayes93&show_icons=true&locale=en&layout=compact" alt="amayes93">
     <br>
     <br>
     <h1 align="center">Salutations👋</h1>
