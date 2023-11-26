@@ -7,7 +7,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="author" content="Me">
 </head>
-<body> <a src="https://github-readme-stats.vercel.app/api/top-langs?username=amayes93&show_icons=true&locale=en&layout=compact" alt="amayes93">
+<body> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=amayes93&show_icons=true&locale=en&layout=compact" alt="amayes93">
     <br>
     <br>
     <h1 align="center">Salutations👋</h1>
